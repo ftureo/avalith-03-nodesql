@@ -1,0 +1,14 @@
+{
+  "name": "avalith-03-nodesql",
+  "version": "1.0.0",
+  "description": "This project includes a server created with Node.js and your connection to a database in SQL. The queries has been realized with Postman",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fabián Tureo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
